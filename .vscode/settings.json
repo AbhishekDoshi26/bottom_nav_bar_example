@@ -1,0 +1,12 @@
+{
+    "dart.flutterSdkPath": "/Users/abhishekdoshi/Desktop/flutter_projects/shipmoney_app/.fvm/flutter_sdk",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true,
+            "source.fixAll": true,
+        },
+        "editor.bracketPairColorization.enabled": true,
+    },
+}
